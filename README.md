@@ -47,7 +47,7 @@ Buatlah layout web sederhana menggunakan css framework (Twitter Bootsrtap).
 7. Menambahkan widget link pada sebelah kanan card 1
 ![img](capture4.png)
 8. Menambah element lain atau card 2 seperti pada gambar dibawah ini
-![img](ss/s6.png)
+![img](capture5.png)
 9. Menambaahkn footer
-![img](ss/s6.png)
+![img](capture6.png)
 # THANK YOU
