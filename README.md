@@ -50,4 +50,4 @@ Buatlah layout web sederhana menggunakan css framework (Twitter Bootsrtap).
 ![img](ss/s6.png)
 9. Menambaahkn footer
 ![img](ss/s6.png)
-# TERIMAKAS
+# THANK YOU
